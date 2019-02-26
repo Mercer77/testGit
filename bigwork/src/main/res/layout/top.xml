@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <android.support.design.widget.TabLayout
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:id="@+id/tab_layout"
+        app:tabIndicatorColor="#FFD700"
+        android:background="#ffffff"
+        app:tabIndicatorHeight="3dp"
+        app:tabMode="fixed"
+        >
+        <android.support.design.widget.TabItem
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="二手宝贝"
+            android:tag="0"
+
+            />
+        <android.support.design.widget.TabItem
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="物品交换"
+            android:tag="1"
+            />
+        <android.support.design.widget.TabItem
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="发布物品"
+            android:tag="2"
+            />
+    </android.support.design.widget.TabLayout>
+
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/top_content"
+        >
+    </FrameLayout>
+
+</android.support.constraint.ConstraintLayout>

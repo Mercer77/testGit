@@ -1,0 +1,4 @@
+include ':app', ':Login', ':smallgame', ':RadioButton', ':calcuator', ':Alertdialog', ':Sy3-1', ':Sy3-1', ':ListView', ':BMIC', ':BMI', ':intentlxgouwu', ':Sy9', ':Sy9-1', ':Sy7Fragment', ':sharedpreferences', ':18SQLite', ':Sy10sqlite', ':shopping', ':bigwork'
+include ':_37MenuDemo'
+include ':_18SQLite'
+include ':_18SQLite'

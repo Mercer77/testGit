@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/18SQLite" />
+            <option value="$PROJECT_DIR$/Alertdialog" />
+            <option value="$PROJECT_DIR$/BMI" />
+            <option value="$PROJECT_DIR$/BMIC" />
+            <option value="$PROJECT_DIR$/ListView" />
+            <option value="$PROJECT_DIR$/Login" />
+            <option value="$PROJECT_DIR$/RadioButton" />
+            <option value="$PROJECT_DIR$/Sy10sqlite" />
+            <option value="$PROJECT_DIR$/Sy3-1" />
+            <option value="$PROJECT_DIR$/Sy7Fragment" />
+            <option value="$PROJECT_DIR$/Sy9" />
+            <option value="$PROJECT_DIR$/Sy9-1" />
+            <option value="$PROJECT_DIR$/_18SQLite" />
+            <option value="$PROJECT_DIR$/_37MenuDemo" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/bigwork" />
+            <option value="$PROJECT_DIR$/calcuator" />
+            <option value="$PROJECT_DIR$/intentlxgouwu" />
+            <option value="$PROJECT_DIR$/sharedpreferences" />
+            <option value="$PROJECT_DIR$/shopping" />
+            <option value="$PROJECT_DIR$/smallgame" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

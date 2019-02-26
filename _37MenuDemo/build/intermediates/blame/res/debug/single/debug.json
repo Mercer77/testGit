@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "D:\\STUDY\\AndroidProject\\AndriodStudioProjects\\_37MenuDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon.png.flat",
+        "source": "D:\\STUDY\\AndroidProject\\AndriodStudioProjects\\_37MenuDemo\\src\\main\\res\\drawable-hdpi\\icon.png"
+    },
+    {
+        "merged": "D:\\STUDY\\AndroidProject\\AndriodStudioProjects\\_37MenuDemo\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_icon.png.flat",
+        "source": "D:\\STUDY\\AndroidProject\\AndriodStudioProjects\\_37MenuDemo\\src\\main\\res\\drawable-ldpi\\icon.png"
+    },
+    {
+        "merged": "D:\\STUDY\\AndroidProject\\AndriodStudioProjects\\_37MenuDemo\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_setting.png.flat",
+        "source": "D:\\STUDY\\AndroidProject\\AndriodStudioProjects\\_37MenuDemo\\src\\main\\res\\drawable-mdpi\\setting.png"
+    },
+    {
+        "merged": "D:\\STUDY\\AndroidProject\\AndriodStudioProjects\\_37MenuDemo\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_icon.png.flat",
+        "source": "D:\\STUDY\\AndroidProject\\AndriodStudioProjects\\_37MenuDemo\\src\\main\\res\\drawable-mdpi\\icon.png"
+    },
+    {
+        "merged": "D:\\STUDY\\AndroidProject\\AndriodStudioProjects\\_37MenuDemo\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_download.png.flat",
+        "source": "D:\\STUDY\\AndroidProject\\AndriodStudioProjects\\_37MenuDemo\\src\\main\\res\\drawable-mdpi\\download.png"
+    },
+    {
+        "merged": "D:\\STUDY\\AndroidProject\\AndriodStudioProjects\\_37MenuDemo\\build\\intermediates\\res\\merged\\debug\\layout_second.xml.flat",
+        "source": "D:\\STUDY\\AndroidProject\\AndriodStudioProjects\\_37MenuDemo\\src\\main\\res\\layout\\second.xml"
+    },
+    {
+        "merged": "D:\\STUDY\\AndroidProject\\AndriodStudioProjects\\_37MenuDemo\\build\\intermediates\\res\\merged\\debug\\menu_menu_item.xml.flat",
+        "source": "D:\\STUDY\\AndroidProject\\AndriodStudioProjects\\_37MenuDemo\\src\\main\\res\\menu\\menu_item.xml"
+    },
+    {
+        "merged": "D:\\STUDY\\AndroidProject\\AndriodStudioProjects\\_37MenuDemo\\build\\intermediates\\res\\merged\\debug\\layout_main.xml.flat",
+        "source": "D:\\STUDY\\AndroidProject\\AndriodStudioProjects\\_37MenuDemo\\src\\main\\res\\layout\\main.xml"
+    }
+]

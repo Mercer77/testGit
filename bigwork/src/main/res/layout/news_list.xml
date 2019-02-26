@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="10dp">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/news_title"
+            android:text="大扫除通知"
+            android:textStyle="bold"
+            android:textSize="20dp"
+            android:textColor="#bd0c0c"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/news_context"
+            android:text="诉讼法首发式发生反反复复反反复复烦烦烦"
+            android:textSize="16dp"
+            android:textStyle="bold"
+            android:padding="15dp"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/news_date"
+            android:text="2017年9月1日"
+            android:textColor="#4c4747"/>
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:background="#5a5353"
+            android:layout_marginTop="10dp"/>
+
+    </LinearLayout>
+
+</android.support.constraint.ConstraintLayout>

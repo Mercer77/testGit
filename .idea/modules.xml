@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/18SQLite/18SQLite.iml" filepath="$PROJECT_DIR$/18SQLite/18SQLite.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Alertdialog/Alertdialog.iml" filepath="$PROJECT_DIR$/Alertdialog/Alertdialog.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AndriodStudioProjects.iml" filepath="$PROJECT_DIR$/AndriodStudioProjects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BMI/BMI.iml" filepath="$PROJECT_DIR$/BMI/BMI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BMIC/BMIC.iml" filepath="$PROJECT_DIR$/BMIC/BMIC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ListView/ListView.iml" filepath="$PROJECT_DIR$/ListView/ListView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Login/Login.iml" filepath="$PROJECT_DIR$/Login/Login.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RadioButton/RadioButton.iml" filepath="$PROJECT_DIR$/RadioButton/RadioButton.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sy10sqlite/Sy10sqlite.iml" filepath="$PROJECT_DIR$/Sy10sqlite/Sy10sqlite.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sy3-1/Sy3-1.iml" filepath="$PROJECT_DIR$/Sy3-1/Sy3-1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sy7Fragment/Sy7Fragment.iml" filepath="$PROJECT_DIR$/Sy7Fragment/Sy7Fragment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sy9/Sy9.iml" filepath="$PROJECT_DIR$/Sy9/Sy9.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sy9-1/Sy9-1.iml" filepath="$PROJECT_DIR$/Sy9-1/Sy9-1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_18SQLite/_18SQLite.iml" filepath="$PROJECT_DIR$/_18SQLite/_18SQLite.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_37MenuDemo/_37MenuDemo.iml" filepath="$PROJECT_DIR$/_37MenuDemo/_37MenuDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bigwork/bigwork.iml" filepath="$PROJECT_DIR$/bigwork/bigwork.iml" />
+      <module fileurl="file://$PROJECT_DIR$/calcuator/calcuator.iml" filepath="$PROJECT_DIR$/calcuator/calcuator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/intentlxgouwu/intentlxgouwu.iml" filepath="$PROJECT_DIR$/intentlxgouwu/intentlxgouwu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sharedpreferences/sharedpreferences.iml" filepath="$PROJECT_DIR$/sharedpreferences/sharedpreferences.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shopping/shopping.iml" filepath="$PROJECT_DIR$/shopping/shopping.iml" />
+      <module fileurl="file://$PROJECT_DIR$/smallgame/smallgame.iml" filepath="$PROJECT_DIR$/smallgame/smallgame.iml" />
+    </modules>
+  </component>
+</project>
